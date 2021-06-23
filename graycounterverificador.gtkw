@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Jun 23 10:20:31 2021
+[*]
+[dumpfile] "C:\Users\tovar\OneDrive\Documents\UCR\CircuitosDigitales2\Tarea8\GrayCounterVerificator\gray_counter.vcd"
+[dumpfile_mtime] "Wed Jun 23 10:20:17 2021"
+[dumpfile_size] 32082
+[savefile] "C:\Users\tovar\OneDrive\Documents\UCR\CircuitosDigitales2\Tarea8\GrayCounterVerificator\graycounterverificador.gtkw"
+[timestart] 130760
+[size] 1366 705
+[pos] -1 -1
+*-12.191751 131000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] bancopruebas_gray.
+[sst_width] 197
+[signals_width] 246
+[sst_expanded] 1
+[sst_vpaned_height] 190
+@28
+bancopruebas_gray.clk
+[color] 7
+bancopruebas_gray.reset_L
+bancopruebas_gray.enable
+@22
+[color] 3
+bancopruebas_gray.contador_conductual.counter[4:0]
+@24
+[color] 3
+bancopruebas_gray.contador_conductual.counter[4:0]
+@22
+[color] 2
+bancopruebas_gray.salida_gray_conductual[4:0]
+[color] 5
+bancopruebas_gray.salida_gray[4:0]
+@28
+[color] 1
+bancopruebas_gray.probador.verificador
+[pattern_trace] 1
+[pattern_trace] 0
